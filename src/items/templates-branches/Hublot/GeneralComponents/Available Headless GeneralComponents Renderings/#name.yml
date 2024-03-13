@@ -1,0 +1,36 @@
+﻿---
+ID: "6d363b0c-ccdf-4902-b57c-f3f80d206acb"
+Parent: "5dff609a-0e1a-46ef-8232-007afb137cb3"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/templates/Branches/Feature/Hublot/GeneralComponents/Available Headless GeneralComponents Renderings/$name
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {92D53B9C-E838-46C0-9453-B0EE059F9423}
+    {836E1885-BB71-4D17-9BEC-EF9877CCCECF}
+    {30EA1ACE-7684-4C59-A40B-BE7415F214BD}
+    {009B8D26-3557-4F78-88BA-9D3E9CE66198}
+    {2AFD4C0A-4571-40FF-A40D-DBCB4E165C84}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171113T104335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c78512dd-a95c-47fa-bb81-cb44e3aa26d6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240311T102314Z

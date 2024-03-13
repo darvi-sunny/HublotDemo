@@ -1,0 +1,38 @@
+﻿---
+ID: "e6b9027b-1317-4300-ad06-0ac6a50bf7be"
+Parent: "088a9cf8-8202-4454-a31b-77b4e8101e0b"
+Template: "9cd73c50-3c49-4c24-aac9-b8cde59e8e56"
+Path: /sitecore/content/HeadlessTenant/Hublot/Data/Footer/Accessibility
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240311T100850Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "5df328be-6181-4f95-98bb-dfcca196a1ab"
+      Hint: Text
+      Value: Accessibility
+    - ID: "8a0489a5-6421-4185-a1ee-942ca090fea6"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{99C44CF5-0FF2-43DB-ABF2-4458274A2C7C}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "765e04c6-c73c-41f0-bdc9-aa1fa6616b09"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240311T100934Z

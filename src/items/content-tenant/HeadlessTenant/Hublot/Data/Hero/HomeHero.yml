@@ -1,0 +1,43 @@
+﻿---
+ID: "a7fac100-e406-4056-9349-b144b1276396"
+Parent: "96b4bcc9-0435-40b0-a4ba-9476953cb942"
+Template: "b512da78-5bd2-4565-ba5b-54e3b69cb653"
+Path: /sitecore/content/HeadlessTenant/Hublot/Data/Hero/HomeHero
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240307T120738Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "30e3d8ca-1209-4ebb-be3e-a4d841a376da"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240308T062511Z
+    - ID: "e0153e37-43de-4cdf-b23f-7d3797289ba1"
+      Hint: HeroText
+      Value: |
+        <h1>BIG BANG</h1>
+        <p>E UEFA EURO</p>
+        <p>2020 ™</p>
+        <p>BUY NOW-ONLINE EXCLUSIVE</p>
+        <span></span>
+    - ID: "e31c82d4-15bc-4dd4-a4ab-83510bd8e9ae"
+      Hint: HeroImage
+      Value: |
+        <image mediaid="{13866859-41BC-4077-A023-B677D8E09FEB}" />

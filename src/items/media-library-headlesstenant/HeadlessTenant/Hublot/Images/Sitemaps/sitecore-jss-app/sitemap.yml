@@ -1,0 +1,62 @@
+﻿---
+ID: "fbefc5d2-0e2b-4b19-8ba1-b2e2e385e4f5"
+Parent: "5340e3a2-b927-44ce-bfc0-60b4910f0903"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Project/HeadlessTenant/Hublot/Images/Sitemaps/sitecore-jss-app/sitemap"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/32x32/cube_molecule.png
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "7847496c-a7a6-432a-91f7-147c1b0c6378"
+  Value: PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8dXJsc2V0IHhtbG5zOnhodG1sPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIiB4bWxucz0iaHR0cDovL3d3dy5zaXRlbWFwcy5vcmcvc2NoZW1hcy9zaXRlbWFwLzAuOSI+DQogIDx1cmw+DQogICAgPGxvYz5odHRwczovL3NpdGVjb3JlLWpzcy1hcHAvPC9sb2M+DQogICAgPGxhc3Rtb2Q+MjAyMy0wNS0yNDwvbGFzdG1vZD4NCiAgICA8Y2hhbmdlZnJlcT5kYWlseTwvY2hhbmdlZnJlcT4NCiAgICA8cHJpb3JpdHk+MC41PC9wcmlvcml0eT4NCiAgPC91cmw+DQogIDx1cmw+DQogICAgPGxvYz5odHRwczovL3NpdGVjb3JlLWpzcy1hcHAvRS1QcmVtaWVyLUxlYWd1ZTwvbG9jPg0KICAgIDxsYXN0bW9kPjIwMjMtMDUtMjU8L2xhc3Rtb2Q+DQogICAgPGNoYW5nZWZyZXE+ZGFpbHk8L2NoYW5nZWZyZXE+DQogICAgPHByaW9yaXR5PjAuNTwvcHJpb3JpdHk+DQogIDwvdXJsPg0KICA8dXJsPg0KICAgIDxsb2M+aHR0cHM6Ly9zaXRlY29yZS1qc3MtYXBwL0UtVGl0YW5pdW0tRGlhbW9uZHMtU29sZGllcjwvbG9jPg0KICAgIDxsYXN0bW9kPjIwMjMtMDUtMjU8L2xhc3Rtb2Q+DQogICAgPGNoYW5nZWZyZXE+ZGFpbHk8L2NoYW5nZWZyZXE+DQogICAgPHByaW9yaXR5PjAuNTwvcHJpb3JpdHk+DQogIDwvdXJsPg0KICA8dXJsPg0KICAgIDxsb2M+aHR0cHM6Ly9zaXRlY29yZS1qc3MtYXBwL0ZlcnJhcmktVW5pY28tQ2FyYm9uPC9sb2M+DQogICAgPGxhc3Rtb2Q+MjAyMy0wNS0yNTwvbGFzdG1vZD4NCiAgICA8Y2hhbmdlZnJlcT5kYWlseTwvY2hhbmdlZnJlcT4NCiAgICA8cHJpb3JpdHk+MC41PC9wcmlvcml0eT4NCiAgPC91cmw+DQogIDx1cmw+DQogICAgPGxvYz5odHRwczovL3NpdGVjb3JlLWpzcy1hcHAvVW5pY28tVGl0YW5pdW0tUmFpbmJvdzwvbG9jPg0KICAgIDxsYXN0bW9kPjIwMjMtMDUtMjU8L2xhc3Rtb2Q+DQogICAgPGNoYW5nZWZyZXE+ZGFpbHk8L2NoYW5nZWZyZXE+DQogICAgPHByaW9yaXR5PjAuNTwvcHJpb3JpdHk+DQogIDwvdXJsPg0KPC91cmxzZXQ+
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1065
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/xml
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 1
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: xml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240214T195142Z
+    - ID: "2fafe7cb-2691-4800-8848-255efa1d31aa"
+      Hint: Keywords
+      Value: |
+        sd:{F20842EE-8B7E-49C9-ADA3-153FC6A8DEF0}
+        site:{D6A39C32-BFD2-4553-A4BA-E4445729C9FB}
+    - ID: "3f4b20e9-36e6-4d45-a423-c86567373f82"
+      Hint: Title
+      Value: sitemap
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\BynFJuDuyc
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\BynFJuDuyc
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11fd1dec-2406-424a-befc-4ba370bda194"
+    - ID: "ba8341a1-ff30-47b8-ae6a-f4947e4113f0"
+      Hint: Description
+      Value: Sitecore Experience Accelelator sitemap file
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\BynFJuDuyc
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240214T195142Z

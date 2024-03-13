@@ -1,0 +1,6 @@
+tls:
+  certificates:
+    - certFile: C:\etc\traefik\certs\_wildcard.hublot.localhost.pem
+      keyFile: C:\etc\traefik\certs\_wildcard.hublot.localhost-key.pem
+    - certFile: C:\etc\traefik\certs\hublot.xmcloudcm.localhost.pem
+      keyFile: C:\etc\traefik\certs\hublot.xmcloudcm.localhost-key.pem

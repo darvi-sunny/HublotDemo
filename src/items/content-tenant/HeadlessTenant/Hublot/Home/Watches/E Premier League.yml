@@ -1,0 +1,61 @@
+﻿---
+ID: "79ac5309-a32b-4f9d-b778-1e12e53138a9"
+Parent: "724cb178-d00b-45b1-9c0d-aba660a42738"
+Template: "1ba326f4-02eb-4d5f-8fbf-9d0c65698046"
+Path: /sitecore/content/HeadlessTenant/Hublot/Home/Watches/E Premier League
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{DA5AF720-4E4D-4F12-8F69-FCD44EDB2BAD}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{667E2D0F-40AB-4AFE-8AF4-C6FDE5406B6E}"
+              s:id="{2AFD4C0A-4571-40FF-A40D-DBCB4E165C84}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B17345A66-EEC5-49E1-89BA-5E98A6F9EE8F%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240311T102956Z
+    - ID: "2934cdbd-ad5e-4116-a8dd-6117aa068fb6"
+      Hint: Image
+      Value: |
+        <image mediaid="{D34C9A63-3B7B-4EAC-89E3-5CB3B12595F0}" />
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: E Premier League
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c3150e0e-f280-4eef-84f6-4f583bb2d89f"
+    - ID: "8dcdd6e3-a6bd-4dfd-a6d4-33cdea866572"
+      Hint: Model
+      Value: Big Bang
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240312T102818Z
+    - ID: "e08a01ec-9423-4ffb-b4fe-03e39216786f"
+      Hint: Title
+      Value: E Premier League
+    - ID: "e9bb4fa1-780c-4ca4-aa30-082ab4d395f8"
+      Hint: Price
+      Value: 435345

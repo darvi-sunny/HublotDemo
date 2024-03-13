@@ -1,0 +1,41 @@
+﻿---
+ID: "42361474-b80d-4bf8-8eb6-c9bf2a12bb13"
+Parent: "b124b3fd-df14-4398-9029-bd13a6e9060a"
+Template: "b124b3fd-df14-4398-9029-bd13a6e9060a"
+Path: /sitecore/templates/Project/HeadlessTenant/Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {B124B3FD-DF14-4398-9029-BD13A6E9060A}
+    {1BA326F4-02EB-4D5F-8FBF-9D0C65698046}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240307T114140Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b225a664-aaa0-42d2-863c-e1e8e7b36e0f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240311T102048Z
+    - ID: "ebdcb71a-4b3b-4344-b380-33c2d0c2e3ff"
+      Hint: Title
+      Value: $name
